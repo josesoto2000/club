@@ -1,0 +1,16 @@
+{
+	clubes: [
+	{
+		0: {fecha_inicio: "2019-12-05", quota: "10.00", id: "CLBEC0000004", action_num: "05", status: "ACTIVE"}
+	},
+	{
+		1: {fecha_inicio: "2019-12-05", quota: "10.00", id: "CLBEC0000005", action_num: "15", status: "ACTIVE"}
+	},
+	{
+		2: {fecha_inicio: "2019-12-05", quota: "25.00", id: "CLBEC0000006", action_num: "56", status: "ACTIVE"}
+	},
+  {
+    2: {fecha_inicio: "2019-12-05", quota: "5.00", id: "CLBEC0000007", action_num: "99", status: "INACTIVE"}
+  }
+	]
+}
