@@ -1,11 +1,101 @@
 {
   "clubes": [
     {
-      "fecha_inicio": "2019-10-05",
-      "quota": "10.00",
       "id": "CLBEC0000004",
+      "status": "ACTIVE",
+      "payment_total": "13",
+      "quota": "10.00",
+      "type": "10",
+      "weeks": "25",
+      "last_payment": "2019-12-23 00:00:00",
+      "used": "0",
+      "retention": "25.00",
+      "available": "105.00",
+      "actual_week": "13",
+      "paid_week": "13",
+      "unpaid_weeks": "12",
+      "fecha_inicio": "2019-10-05",
       "action_num": "05",
-      "status": "ACTIVE"
+      "history": [
+        {
+          "date": "2019-10-5 00:00:00",
+          "reff": "PWEB0000003001",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-10-7 00:00:00",
+          "reff": "PWEB0000003002",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-10-14 00:00:00",
+          "reff": "PWEB0000003003",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-10-21 00:00:00",
+          "reff": "PWEB0000003004",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-10-28 00:00:00",
+          "reff": "PWEB0000003005",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-11-4 00:00:00",
+          "reff": "PWEB0000003006",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-11-11 00:00:00",
+          "reff": "PWEB0000003007",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-11-18 00:00:00",
+          "reff": "PWEB0000003008",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-11-25 00:00:00",
+          "reff": "PWEB0000003009",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-12-2 00:00:00",
+          "reff": "PWEB0000003010",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-12-9 00:00:00",
+          "reff": "PWEB0000003011",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-12-16 00:00:00",
+          "reff": "PWEB0000003012",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-12-23 00:00:00",
+          "reff": "PWEB0000003013",
+          "amount": "10.00",
+          "wh": "ECOMMERCE"
+        }
+      ]
     },
     {
       "fecha_inicio": "2019-12-05",
