@@ -2,7 +2,7 @@
   "clubes": [
     {
       "id": "CLBEC0000004",
-      "status": "ACTIVE",
+      "Status": "ACTIVE",
       "payment_total": "13",
       "quota": "10.00",
       "type": "10",
@@ -94,6 +94,24 @@
           "reff": "PWEB0000003013",
           "amount": "10.00",
           "wh": "ECOMMERCE"
+        },
+        {
+          "date": "2019-12-30 00:00:00",
+          "reff": "PWEB0000003014",
+          "amount": "10.00",
+          "wh": "ECOMMERCE
+        },
+        {
+          "date": "2020-01-06 00:00:00",
+          "reff": "PWEB0000003015",
+          "amount": "10.00",
+          "wh": "ECOMMERCE
+        },
+        {
+          "date": "2020-01-13 00:00:00",
+          "reff": "PWEB0000003016",
+          "amount": "10.00",
+          "wh": "ECOMMERCE
         }
       ]
     },
@@ -102,21 +120,21 @@
       "quota": "10.00",
       "id": "CLBEC0000005",
       "action_num": "15",
-      "status": "ACTIVE"
+      "Status": "ACTIVE"
     },
     {
       "fecha_inicio": "2019-12-05",
       "quota": "25.00",
       "id": "CLBEC0000006",
       "action_num": "56",
-      "status": "ACTIVE"
+      "Status": "ACTIVE"
     },
     {
       "fecha_inicio": "2019-12-05",
       "quota": "5.00",
       "id": "CLBEC0000007",
       "action_num": "99",
-      "status": "INACTIVE"
+      "Status": "INACTIVE"
     }
   ]
 }
